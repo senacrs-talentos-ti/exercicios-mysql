@@ -4,15 +4,13 @@ Este repositório serve como template para atividades de banco de dados MySQL.
 
 ## Estrutura do Projeto
 
-- `sql/create_tables.sql`: Script para criar, modificar ou excluír (create, alter, drop) as tabelas e/ou banco de dados.
-- `sql/insert_data.sql`: Script para inserir, alterar ou excluír (insert, update, delete) dados nas tabelas.
-- `sql/queries.sql`: Script para escrever suas queries (select).
+- `sql/queries.sql`: Script para escrever suas queries.
 
 ## Como Usar
 
 - Siga as instruções fornecidas nos enunciados dos exercícios.
 
-- Insira os códigos dos exercícios nos arquivos correspondentes acima.
+- Insira os códigos dos exercícios no arquivo correspondente acima.
 
 ### Observações:
 
