@@ -22,4 +22,4 @@ jobs:
           MYSQL_ROOT_PASSWORD: rootpassword
         run: |
           sudo apt-get install mysql-client
-          mysql -h 127.0.0.1 -u root -p rootpassword -e "source sql/queries.sql"
+          mysql -h 127.0.0.1 -u root -prootpassword -e "source sql/queries.sql"
